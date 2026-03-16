@@ -2,9 +2,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.envoyproxy.controlplane</groupId>
+    <groupId>io.github.ovadiagal</groupId>
     <artifactId>java-control-plane</artifactId>
-    <version>1.0.52-SNAPSHOT</version>
+    <version>0.0.2-test-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -48,7 +48,7 @@
     </properties>
 
     <name>java-control-plane</name>
-    <url>https://github.com/envoyproxy/java-control-plane</url>
+    <url>https://github.com/ovadiagal/java-control-plane</url>
     <description>
         The Envoy java-control-plane is a Java-based library for building
         implementations of the data-plane-api.
@@ -68,9 +68,9 @@
     <inceptionYear>2018</inceptionYear>
 
     <scm>
-        <url>https://github.com/envoyproxy/java-control-plane</url>
-        <connection>scm:git:git://github.com/envoyproxy/java-control-plane.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/envoyproxy/java-control-plane.git</developerConnection>
+        <url>https://github.com/ovadiagal/java-control-plane</url>
+        <connection>scm:git:git://github.com/ovadiagal/java-control-plane.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/ovadiagal/java-control-plane.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
