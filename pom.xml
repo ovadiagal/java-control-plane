@@ -4,7 +4,7 @@
 
     <groupId>io.github.ovadiagal</groupId>
     <artifactId>java-control-plane</artifactId>
-    <version>0.0.2-test-SNAPSHOT</version>
+    <version>0.0.2-test</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -71,7 +71,7 @@
         <url>https://github.com/ovadiagal/java-control-plane</url>
         <connection>scm:git:git://github.com/ovadiagal/java-control-plane.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/ovadiagal/java-control-plane.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>v0.0.2-test</tag>
     </scm>
 
     <developers>
